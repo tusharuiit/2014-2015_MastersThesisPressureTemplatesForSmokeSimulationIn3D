@@ -1,0 +1,105 @@
+#
+# Simple example scene for a 2D simulation
+# Simulation of a buoyant smoke density plume
+#
+from manta import *
+#import manta
+
+# solver params
+res = 64
+
+gs = vec3(res,res,1)
+s = Solver(name='main', gridSize = gs, dim=2)
+s.timestep = 1.0
+timings = Timings()
+
+# prepare grids
+flags = s.create(FlagGrid)
+#flag_test = s.create(FlagGrid)
+vel = s.create(MACGrid)
+#vel_test = s.create(MACGrid)
+density = s.create(RealGrid)
+pressure = s.create(RealGrid)
+
+#This is a dummy grid created for the velocity-only visualization in the GUI.Velocity is MAC Grid
+velocity_only = s.create(RealGrid)
+
+#This is the pressure just after CG solve
+pressure_before = s.create(RealGrid)
+
+#This is the pressure modification being tested on all the points
+pressure_modification_mexican_hat = s.create(RealGrid)
+
+flags.initDomain()
+flags.fillGrid()
+
+if (GUI):
+	gui = Gui()
+	gui.show()
+	gui.pause()
+
+#This is the original source
+#source = s.create(Cylinder, center=gs*vec3(0.5,0.1,0.5), radius=res*0.14, z=gs*vec3(0, 0.02, 0))
+#This is the source for point density in all time steps
+source = s.create(Cylinder, center=gs*vec3(0.5,0.5,0.5), radius=res*0.45, z=gs*vec3(0, 0.4, 0))
+
+#This is for circular mexican hat
+mexican_hat_splat_center = gs*vec3(0.5,0.5,0.5)
+mexican_hat_splat_sigma = 4.0
+mexican_hat_splat_radius = 16
+
+#This is the density of value 1 applied at a single point
+#source.applydensity_at_pointToGrid(grid=density, position = (gs*vec3(0.5,0.5,0.5)), value=1)
+#source.applydensity_at_pointToGrid(grid=density, position = (gs*vec3(0.5,0.5,0.5)), value=1)
+disp_y = 0.0
+disp_x = 2.0
+
+position_displaced = ((mexican_hat_splat_center) + vec3(disp_x,disp_y,0.0))
+source.applydensity_at_pointToGrid(grid=density, position=position_displaced , value=1)
+
+#main loop
+for t in range(400):
+#	if t<300:
+##		source.applyToGrid(grid=density, value=1)
+
+#       Inflow thingy may be put/imposed here , just before advectSemiLagrange
+#	if t<200:
+#		source.applyToGrid(grid=vel, value=velInflow)
+
+	advectSemiLagrange(flags=flags, vel=vel, grid=density, order=2)    
+	advectSemiLagrange(flags=flags, vel=vel, grid=vel,     order=2)
+
+	setWallBcs(flags=flags, vel=vel)    
+
+#	if t<200:
+#		addBuoyancy(density=density, vel=vel, gravity=vec3(0,-4e-3,0), flags=flags)
+
+	solvePressure3_part1(flags=flags, vel=vel, pressure=pressure, openBound='Y')
+
+#	This is mexican hat
+	create_pressure_modifier_mexican_hat(pressure_modification_mexican_hat , mexican_hat_splat_radius , mexican_hat_splat_center , mexican_hat_splat_sigma)
+
+#	time range of application of pressure modification
+	t1 = 80
+	t2 = 120
+	if (t==(t1-2)):
+		gui.pause()
+	if (t==(t2-2)):
+		gui.pause()
+	pressure_before.copyFrom(pressure)
+
+#	if (t==82):
+#		source.applydensity_at_pointToGrid(grid=density, position = (gs*vec3(0.5,0.5,0.5)), value=0)
+
+	if (t>t1)and(t<t2):
+
+		modify_pressure_constant(pressure,pressure_modification_mexican_hat,multiplier=1)
+
+	solvePressure3_part2(flags=flags, vel=vel, pressure=pressure)
+
+	setWallBcs(flags=flags, vel=vel)
+
+	timings.display()
+
+	s.step()
+#	gui.screenshot( './pictures/single_points/grid_res_64/magnify_4/scale_1.6/velocity_only/%03d_velocity_only.png' % t )

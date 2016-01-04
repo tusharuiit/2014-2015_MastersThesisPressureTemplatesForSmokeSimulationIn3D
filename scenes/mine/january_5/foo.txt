@@ -1,0 +1,870 @@
+Maximum absolute value of density = 1.0
+Maximum absolute value of velocity = 0.0
+Maximum absolute value of pressure = 0.0
+Maximum absolute value of pressure_template = 0.0
+
+Maximum absolute value of density = 1.0
+Maximum absolute value of velocity = 0.0
+Maximum absolute value of pressure = 0.0
+Maximum absolute value of pressure_template = 0.0
+
+Maximum absolute value of density = 1.0
+Maximum absolute value of velocity = 0.0
+Maximum absolute value of pressure = 0.0
+Maximum absolute value of pressure_template = 0.0
+
+Maximum absolute value of density = 1.0
+Maximum absolute value of velocity = 0.0
+Maximum absolute value of pressure = 0.0
+Maximum absolute value of pressure_template = 0.0
+
+Maximum absolute value of density = 1.0
+Maximum absolute value of velocity = 0.0513573301065
+Maximum absolute value of pressure = 0.0
+Maximum absolute value of pressure_template = 0.25
+
+Maximum absolute value of density = 1.0
+Maximum absolute value of velocity = 0.0936428796833
+Maximum absolute value of pressure = 0.0
+Maximum absolute value of pressure_template = 0.25
+
+Maximum absolute value of density = 1.0
+Maximum absolute value of velocity = 0.137917071495
+Maximum absolute value of pressure = 0.0
+Maximum absolute value of pressure_template = 0.25
+
+Maximum absolute value of density = 1.0
+Maximum absolute value of velocity = 0.212670221289
+Maximum absolute value of pressure = 0.0
+Maximum absolute value of pressure_template = 0.25
+
+Maximum absolute value of density = 1.0
+Maximum absolute value of velocity = 0.26203944664
+Maximum absolute value of pressure = 0.0
+Maximum absolute value of pressure_template = 0.25
+
+Maximum absolute value of density = 1.0
+Maximum absolute value of velocity = 0.289504208524
+Maximum absolute value of pressure = 0.0
+Maximum absolute value of pressure_template = 0.25
+
+Maximum absolute value of density = 1.0
+Maximum absolute value of velocity = 0.298446666858
+Maximum absolute value of pressure = 0.0
+Maximum absolute value of pressure_template = 0.25
+
+Maximum absolute value of density = 1.0
+Maximum absolute value of velocity = 0.322407860205
+Maximum absolute value of pressure = 0.0
+Maximum absolute value of pressure_template = 0.25
+
+Maximum absolute value of density = 1.0
+Maximum absolute value of velocity = 0.352057122056
+Maximum absolute value of pressure = 0.0
+Maximum absolute value of pressure_template = 0.25
+
+Maximum absolute value of density = 1.0
+Maximum absolute value of velocity = 0.379499772365
+Maximum absolute value of pressure = 0.0
+Maximum absolute value of pressure_template = 0.25
+
+Maximum absolute value of density = 1.0
+Maximum absolute value of velocity = 0.420656335147
+Maximum absolute value of pressure = 0.0
+Maximum absolute value of pressure_template = 0.25
+
+Maximum absolute value of density = 1.0
+Maximum absolute value of velocity = 0.426731031279
+Maximum absolute value of pressure = 0.0
+Maximum absolute value of pressure_template = 0.25
+
+Maximum absolute value of density = 1.0
+Maximum absolute value of velocity = 0.444707869541
+Maximum absolute value of pressure = 0.0
+Maximum absolute value of pressure_template = 0.25
+
+Maximum absolute value of density = 1.0
+Maximum absolute value of velocity = 0.460007842582
+Maximum absolute value of pressure = 0.0
+Maximum absolute value of pressure_template = 0.25
+
+Maximum absolute value of density = 1.0
+Maximum absolute value of velocity = 0.512847959437
+Maximum absolute value of pressure = 0.0
+Maximum absolute value of pressure_template = 0.25
+
+Maximum absolute value of density = 1.0
+Maximum absolute value of velocity = 0.551215542218
+Maximum absolute value of pressure = 0.0
+Maximum absolute value of pressure_template = 0.25
+
+Maximum absolute value of density = 1.0
+Maximum absolute value of velocity = 0.586750320992
+Maximum absolute value of pressure = 0.0
+Maximum absolute value of pressure_template = 0.25
+
+Maximum absolute value of density = 1.0
+Maximum absolute value of velocity = 0.572935611799
+Maximum absolute value of pressure = 0.0
+Maximum absolute value of pressure_template = 0.25
+
+Maximum absolute value of density = 1.0
+Maximum absolute value of velocity = 0.597610872124
+Maximum absolute value of pressure = 0.0
+Maximum absolute value of pressure_template = 0.25
+
+Maximum absolute value of density = 1.0
+Maximum absolute value of velocity = 0.607099411797
+Maximum absolute value of pressure = 0.0
+Maximum absolute value of pressure_template = 0.25
+
+Maximum absolute value of density = 1.0
+Maximum absolute value of velocity = 0.604909870736
+Maximum absolute value of pressure = 0.0
+Maximum absolute value of pressure_template = 0.25
+
+Maximum absolute value of density = 1.0
+Maximum absolute value of velocity = 0.63046282568
+Maximum absolute value of pressure = 0.0
+Maximum absolute value of pressure_template = 0.25
+
+Maximum absolute value of density = 1.0
+Maximum absolute value of velocity = 0.636505890328
+Maximum absolute value of pressure = 0.0
+Maximum absolute value of pressure_template = 0.25
+
+Maximum absolute value of density = 1.0
+Maximum absolute value of velocity = 0.630807944116
+Maximum absolute value of pressure = 0.0
+Maximum absolute value of pressure_template = 0.25
+
+Maximum absolute value of density = 1.0
+Maximum absolute value of velocity = 0.647619877799
+Maximum absolute value of pressure = 0.0
+Maximum absolute value of pressure_template = 0.25
+
+Maximum absolute value of density = 1.0
+Maximum absolute value of velocity = 0.666673837566
+Maximum absolute value of pressure = 0.0
+Maximum absolute value of pressure_template = 0.25
+
+Maximum absolute value of density = 1.0
+Maximum absolute value of velocity = 0.647477212321
+Maximum absolute value of pressure = 0.0
+Maximum absolute value of pressure_template = 0.25
+
+Maximum absolute value of density = 1.0
+Maximum absolute value of velocity = 0.680054577655
+Maximum absolute value of pressure = 0.0
+Maximum absolute value of pressure_template = 0.25
+
+Maximum absolute value of density = 1.0
+Maximum absolute value of velocity = 0.674931539301
+Maximum absolute value of pressure = 0.0
+Maximum absolute value of pressure_template = 0.25
+
+Maximum absolute value of density = 1.0
+Maximum absolute value of velocity = 0.672370632494
+Maximum absolute value of pressure = 0.0
+Maximum absolute value of pressure_template = 0.25
+
+Maximum absolute value of density = 1.0
+Maximum absolute value of velocity = 0.690391284859
+Maximum absolute value of pressure = 0.0
+Maximum absolute value of pressure_template = 0.25
+
+Maximum absolute value of density = 1.0
+Maximum absolute value of velocity = 0.68986547405
+Maximum absolute value of pressure = 0.0
+Maximum absolute value of pressure_template = 0.25
+
+Maximum absolute value of density = 1.0
+Maximum absolute value of velocity = 0.701132412834
+Maximum absolute value of pressure = 0.0
+Maximum absolute value of pressure_template = 0.25
+
+Maximum absolute value of density = 1.0
+Maximum absolute value of velocity = 0.7214771194
+Maximum absolute value of pressure = 0.0
+Maximum absolute value of pressure_template = 0.25
+
+Maximum absolute value of density = 1.0
+Maximum absolute value of velocity = 0.728475723142
+Maximum absolute value of pressure = 0.0
+Maximum absolute value of pressure_template = 0.25
+
+Maximum absolute value of density = 1.0
+Maximum absolute value of velocity = 0.755173965916
+Maximum absolute value of pressure = 0.0
+Maximum absolute value of pressure_template = 0.25
+
+Maximum absolute value of density = 1.0
+Maximum absolute value of velocity = 0.764339942692
+Maximum absolute value of pressure = 0.0
+Maximum absolute value of pressure_template = 0.25
+
+Maximum absolute value of density = 1.0
+Maximum absolute value of velocity = 0.78780025664
+Maximum absolute value of pressure = 0.0
+Maximum absolute value of pressure_template = 0.25
+
+Maximum absolute value of density = 1.0
+Maximum absolute value of velocity = 0.77388649015
+Maximum absolute value of pressure = 0.0
+Maximum absolute value of pressure_template = 0.25
+
+Maximum absolute value of density = 1.0
+Maximum absolute value of velocity = 0.804493241745
+Maximum absolute value of pressure = 0.0
+Maximum absolute value of pressure_template = 0.25
+
+Maximum absolute value of density = 1.0
+Maximum absolute value of velocity = 0.83228597824
+Maximum absolute value of pressure = 0.0
+Maximum absolute value of pressure_template = 0.25
+
+Maximum absolute value of density = 1.0
+Maximum absolute value of velocity = 0.843323376433
+Maximum absolute value of pressure = 0.0
+Maximum absolute value of pressure_template = 0.25
+
+Maximum absolute value of density = 1.0
+Maximum absolute value of velocity = 0.864526934682
+Maximum absolute value of pressure = 0.0
+Maximum absolute value of pressure_template = 0.25
+
+Maximum absolute value of density = 1.0
+Maximum absolute value of velocity = 0.849002990378
+Maximum absolute value of pressure = 0.0
+Maximum absolute value of pressure_template = 0.25
+
+Maximum absolute value of density = 1.0
+Maximum absolute value of velocity = 0.840544272298
+Maximum absolute value of pressure = 0.0
+Maximum absolute value of pressure_template = 0.25
+
+Maximum absolute value of density = 1.0
+Maximum absolute value of velocity = 0.845949768789
+Maximum absolute value of pressure = 0.0
+Maximum absolute value of pressure_template = 0.25
+
+Maximum absolute value of density = 1.0
+Maximum absolute value of velocity = 0.849432605736
+Maximum absolute value of pressure = 0.0
+Maximum absolute value of pressure_template = 0.25
+
+Maximum absolute value of density = 1.0
+Maximum absolute value of velocity = 0.851572438379
+Maximum absolute value of pressure = 0.0
+Maximum absolute value of pressure_template = 0.25
+
+Maximum absolute value of density = 1.0
+Maximum absolute value of velocity = 0.847955637504
+Maximum absolute value of pressure = 0.0
+Maximum absolute value of pressure_template = 0.25
+
+Maximum absolute value of density = 1.0
+Maximum absolute value of velocity = 0.862986216798
+Maximum absolute value of pressure = 0.0
+Maximum absolute value of pressure_template = 0.25
+
+Maximum absolute value of density = 1.0
+Maximum absolute value of velocity = 0.888288775146
+Maximum absolute value of pressure = 0.0
+Maximum absolute value of pressure_template = 0.25
+
+Maximum absolute value of density = 1.0
+Maximum absolute value of velocity = 0.886576794459
+Maximum absolute value of pressure = 0.0
+Maximum absolute value of pressure_template = 0.25
+
+Maximum absolute value of density = 1.0
+Maximum absolute value of velocity = 0.869892136569
+Maximum absolute value of pressure = 0.0
+Maximum absolute value of pressure_template = 0.25
+
+Maximum absolute value of density = 1.0
+Maximum absolute value of velocity = 0.908461183384
+Maximum absolute value of pressure = 0.0
+Maximum absolute value of pressure_template = 0.25
+
+Maximum absolute value of density = 1.0
+Maximum absolute value of velocity = 0.897349870287
+Maximum absolute value of pressure = 0.0
+Maximum absolute value of pressure_template = 0.25
+
+Maximum absolute value of density = 1.0
+Maximum absolute value of velocity = 0.855274900706
+Maximum absolute value of pressure = 0.0
+Maximum absolute value of pressure_template = 0.25
+
+Maximum absolute value of density = 1.0
+Maximum absolute value of velocity = 0.836291065893
+Maximum absolute value of pressure = 0.0
+Maximum absolute value of pressure_template = 0.25
+
+Maximum absolute value of density = 1.0
+Maximum absolute value of velocity = 0.807416535556
+Maximum absolute value of pressure = 0.0
+Maximum absolute value of pressure_template = 0.25
+
+Maximum absolute value of density = 1.0
+Maximum absolute value of velocity = 0.839208832658
+Maximum absolute value of pressure = 0.0
+Maximum absolute value of pressure_template = 0.25
+
+Maximum absolute value of density = 1.0
+Maximum absolute value of velocity = 0.813733371648
+Maximum absolute value of pressure = 0.0
+Maximum absolute value of pressure_template = 0.25
+
+Maximum absolute value of density = 1.0
+Maximum absolute value of velocity = 0.78688732
+Maximum absolute value of pressure = 0.0
+Maximum absolute value of pressure_template = 0.25
+
+Maximum absolute value of density = 1.0
+Maximum absolute value of velocity = 0.774625022927
+Maximum absolute value of pressure = 0.0
+Maximum absolute value of pressure_template = 0.25
+
+Maximum absolute value of density = 1.0
+Maximum absolute value of velocity = 0.77293381377
+Maximum absolute value of pressure = 0.0
+Maximum absolute value of pressure_template = 0.25
+
+Maximum absolute value of density = 1.0
+Maximum absolute value of velocity = 0.769761696861
+Maximum absolute value of pressure = 0.0
+Maximum absolute value of pressure_template = 0.25
+
+Maximum absolute value of density = 1.0
+Maximum absolute value of velocity = 0.809517603701
+Maximum absolute value of pressure = 0.0
+Maximum absolute value of pressure_template = 0.25
+
+Maximum absolute value of density = 1.0
+Maximum absolute value of velocity = 0.83702742997
+Maximum absolute value of pressure = 0.0
+Maximum absolute value of pressure_template = 0.25
+
+Maximum absolute value of density = 1.0
+Maximum absolute value of velocity = 0.828228426849
+Maximum absolute value of pressure = 0.0
+Maximum absolute value of pressure_template = 0.25
+
+Maximum absolute value of density = 1.0
+Maximum absolute value of velocity = 0.882364890873
+Maximum absolute value of pressure = 0.0
+Maximum absolute value of pressure_template = 0.25
+
+Maximum absolute value of density = 1.0
+Maximum absolute value of velocity = 0.867069515065
+Maximum absolute value of pressure = 0.0
+Maximum absolute value of pressure_template = 0.25
+
+Maximum absolute value of density = 1.0
+Maximum absolute value of velocity = 0.857443469928
+Maximum absolute value of pressure = 0.0
+Maximum absolute value of pressure_template = 0.25
+
+Maximum absolute value of density = 1.0
+Maximum absolute value of velocity = 0.874927654472
+Maximum absolute value of pressure = 0.0
+Maximum absolute value of pressure_template = 0.25
+
+Maximum absolute value of density = 1.0
+Maximum absolute value of velocity = 0.858887676906
+Maximum absolute value of pressure = 0.0
+Maximum absolute value of pressure_template = 0.25
+
+Maximum absolute value of density = 1.0
+Maximum absolute value of velocity = 0.840136177388
+Maximum absolute value of pressure = 0.0
+Maximum absolute value of pressure_template = 0.25
+
+Maximum absolute value of density = 1.0
+Maximum absolute value of velocity = 0.854814971299
+Maximum absolute value of pressure = 0.0
+Maximum absolute value of pressure_template = 0.25
+
+Maximum absolute value of density = 1.0
+Maximum absolute value of velocity = 0.863441798714
+Maximum absolute value of pressure = 0.0
+Maximum absolute value of pressure_template = 0.25
+
+Maximum absolute value of density = 1.0
+Maximum absolute value of velocity = 0.862321011174
+Maximum absolute value of pressure = 0.0
+Maximum absolute value of pressure_template = 0.25
+
+Maximum absolute value of density = 1.0
+Maximum absolute value of velocity = 0.871995530798
+Maximum absolute value of pressure = 0.0
+Maximum absolute value of pressure_template = 0.25
+
+Maximum absolute value of density = 1.0
+Maximum absolute value of velocity = 0.852469656875
+Maximum absolute value of pressure = 0.0
+Maximum absolute value of pressure_template = 0.25
+
+Maximum absolute value of density = 1.0
+Maximum absolute value of velocity = 0.844379727481
+Maximum absolute value of pressure = 0.0
+Maximum absolute value of pressure_template = 0.25
+
+Maximum absolute value of density = 1.0
+Maximum absolute value of velocity = 0.829436245517
+Maximum absolute value of pressure = 0.0
+Maximum absolute value of pressure_template = 0.25
+
+Maximum absolute value of density = 1.0
+Maximum absolute value of velocity = 0.842766162308
+Maximum absolute value of pressure = 0.0
+Maximum absolute value of pressure_template = 0.25
+
+Maximum absolute value of density = 1.0
+Maximum absolute value of velocity = 0.837698737355
+Maximum absolute value of pressure = 0.0
+Maximum absolute value of pressure_template = 0.25
+
+Maximum absolute value of density = 1.0
+Maximum absolute value of velocity = 0.856997258643
+Maximum absolute value of pressure = 0.0
+Maximum absolute value of pressure_template = 0.25
+
+Maximum absolute value of density = 1.0
+Maximum absolute value of velocity = 0.832279625718
+Maximum absolute value of pressure = 0.0
+Maximum absolute value of pressure_template = 0.25
+
+Maximum absolute value of density = 1.0
+Maximum absolute value of velocity = 0.862230026207
+Maximum absolute value of pressure = 0.0
+Maximum absolute value of pressure_template = 0.25
+
+Maximum absolute value of density = 1.0
+Maximum absolute value of velocity = 0.820204164259
+Maximum absolute value of pressure = 0.0
+Maximum absolute value of pressure_template = 0.25
+
+Maximum absolute value of density = 1.0
+Maximum absolute value of velocity = 0.854989593833
+Maximum absolute value of pressure = 0.0
+Maximum absolute value of pressure_template = 0.25
+
+Maximum absolute value of density = 1.0
+Maximum absolute value of velocity = 0.835966799479
+Maximum absolute value of pressure = 0.0
+Maximum absolute value of pressure_template = 0.25
+
+Maximum absolute value of density = 1.0
+Maximum absolute value of velocity = 0.875707857296
+Maximum absolute value of pressure = 0.0
+Maximum absolute value of pressure_template = 0.25
+
+Maximum absolute value of density = 1.0
+Maximum absolute value of velocity = 0.844883364965
+Maximum absolute value of pressure = 0.0
+Maximum absolute value of pressure_template = 0.25
+
+Maximum absolute value of density = 1.0
+Maximum absolute value of velocity = 0.8625665052
+Maximum absolute value of pressure = 0.0
+Maximum absolute value of pressure_template = 0.25
+
+Maximum absolute value of density = 1.0
+Maximum absolute value of velocity = 0.883986788319
+Maximum absolute value of pressure = 0.0
+Maximum absolute value of pressure_template = 0.25
+
+Maximum absolute value of density = 1.0
+Maximum absolute value of velocity = 0.890983847786
+Maximum absolute value of pressure = 0.0
+Maximum absolute value of pressure_template = 0.25
+
+Maximum absolute value of density = 1.0
+Maximum absolute value of velocity = 0.897236705403
+Maximum absolute value of pressure = 0.0
+Maximum absolute value of pressure_template = 0.25
+
+Maximum absolute value of density = 1.0
+Maximum absolute value of velocity = 0.916567209417
+Maximum absolute value of pressure = 0.0
+Maximum absolute value of pressure_template = 0.25
+
+Maximum absolute value of density = 1.0
+Maximum absolute value of velocity = 0.905748095775
+Maximum absolute value of pressure = 0.0
+Maximum absolute value of pressure_template = 0.25
+
+Maximum absolute value of density = 1.0
+Maximum absolute value of velocity = 0.910848733141
+Maximum absolute value of pressure = 0.0
+Maximum absolute value of pressure_template = 0.25
+
+Maximum absolute value of density = 1.0
+Maximum absolute value of velocity = 0.917836582355
+Maximum absolute value of pressure = 0.0
+Maximum absolute value of pressure_template = 0.25
+
+Maximum absolute value of density = 1.0
+Maximum absolute value of velocity = 0.917836582355
+Maximum absolute value of pressure = 0.0
+Maximum absolute value of pressure_template = 0.25
+
+Maximum absolute value of density = 1.0
+Maximum absolute value of velocity = 0.931211595606
+Maximum absolute value of pressure = 0.0
+Maximum absolute value of pressure_template = 0.25
+
+Maximum absolute value of density = 1.0
+Maximum absolute value of velocity = 0.901411117663
+Maximum absolute value of pressure = 0.0
+Maximum absolute value of pressure_template = 0.25
+
+Maximum absolute value of density = 1.0
+Maximum absolute value of velocity = 0.916617464063
+Maximum absolute value of pressure = 0.0
+Maximum absolute value of pressure_template = 0.25
+
+Maximum absolute value of density = 1.0
+Maximum absolute value of velocity = 0.916617464063
+Maximum absolute value of pressure = 0.0
+Maximum absolute value of pressure_template = 0.25
+
+Maximum absolute value of density = 1.0
+Maximum absolute value of velocity = 0.916617464063
+Maximum absolute value of pressure = 0.0
+Maximum absolute value of pressure_template = 0.25
+
+Maximum absolute value of density = 1.0
+Maximum absolute value of velocity = 0.901990660171
+Maximum absolute value of pressure = 0.0
+Maximum absolute value of pressure_template = 0.25
+
+Maximum absolute value of density = 1.0
+Maximum absolute value of velocity = 0.901620685405
+Maximum absolute value of pressure = 0.0
+Maximum absolute value of pressure_template = 0.25
+
+Maximum absolute value of density = 1.0
+Maximum absolute value of velocity = 0.911635350582
+Maximum absolute value of pressure = 0.0
+Maximum absolute value of pressure_template = 0.25
+
+Maximum absolute value of density = 1.0
+Maximum absolute value of velocity = 0.901538294923
+Maximum absolute value of pressure = 0.0
+Maximum absolute value of pressure_template = 0.25
+
+Maximum absolute value of density = 1.0
+Maximum absolute value of velocity = 0.914046826652
+Maximum absolute value of pressure = 0.0
+Maximum absolute value of pressure_template = 0.25
+
+Maximum absolute value of density = 1.0
+Maximum absolute value of velocity = 0.891908960592
+Maximum absolute value of pressure = 0.0
+Maximum absolute value of pressure_template = 0.25
+
+Maximum absolute value of density = 1.0
+Maximum absolute value of velocity = 0.897803899117
+Maximum absolute value of pressure = 0.0
+Maximum absolute value of pressure_template = 0.25
+
+Maximum absolute value of density = 1.0
+Maximum absolute value of velocity = 0.888502882306
+Maximum absolute value of pressure = 0.0
+Maximum absolute value of pressure_template = 0.25
+
+Maximum absolute value of density = 1.0
+Maximum absolute value of velocity = 0.887877619962
+Maximum absolute value of pressure = 0.0
+Maximum absolute value of pressure_template = 0.25
+
+Maximum absolute value of density = 1.0
+Maximum absolute value of velocity = 0.894212802478
+Maximum absolute value of pressure = 0.0
+Maximum absolute value of pressure_template = 0.25
+
+Maximum absolute value of density = 1.0
+Maximum absolute value of velocity = 0.865488801757
+Maximum absolute value of pressure = 0.0
+Maximum absolute value of pressure_template = 0.25
+
+Maximum absolute value of density = 1.0
+Maximum absolute value of velocity = 0.863186582473
+Maximum absolute value of pressure = 0.0
+Maximum absolute value of pressure_template = 0.25
+
+Maximum absolute value of density = 1.0
+Maximum absolute value of velocity = 0.890244899603
+Maximum absolute value of pressure = 0.0
+Maximum absolute value of pressure_template = 0.25
+
+Maximum absolute value of density = 1.0
+Maximum absolute value of velocity = 0.879685826331
+Maximum absolute value of pressure = 0.0
+Maximum absolute value of pressure_template = 0.25
+
+Maximum absolute value of density = 1.0
+Maximum absolute value of velocity = 0.871003206064
+Maximum absolute value of pressure = 0.0
+Maximum absolute value of pressure_template = 0.25
+
+Maximum absolute value of density = 1.0
+Maximum absolute value of velocity = 0.871003206064
+Maximum absolute value of pressure = 0.0
+Maximum absolute value of pressure_template = 0.25
+
+Maximum absolute value of density = 1.0
+Maximum absolute value of velocity = 0.872213729459
+Maximum absolute value of pressure = 0.0
+Maximum absolute value of pressure_template = 0.25
+
+Maximum absolute value of density = 1.0
+Maximum absolute value of velocity = 0.855927812747
+Maximum absolute value of pressure = 0.0
+Maximum absolute value of pressure_template = 0.25
+
+Maximum absolute value of density = 1.0
+Maximum absolute value of velocity = 0.855927812747
+Maximum absolute value of pressure = 0.0
+Maximum absolute value of pressure_template = 0.25
+
+Maximum absolute value of density = 1.0
+Maximum absolute value of velocity = 0.877597224323
+Maximum absolute value of pressure = 0.0
+Maximum absolute value of pressure_template = 0.25
+
+Maximum absolute value of density = 1.0
+Maximum absolute value of velocity = 0.877597224323
+Maximum absolute value of pressure = 0.0
+Maximum absolute value of pressure_template = 0.25
+
+Maximum absolute value of density = 1.0
+Maximum absolute value of velocity = 0.867893249837
+Maximum absolute value of pressure = 0.0
+Maximum absolute value of pressure_template = 0.25
+
+Maximum absolute value of density = 1.0
+Maximum absolute value of velocity = 0.867893249837
+Maximum absolute value of pressure = 0.0
+Maximum absolute value of pressure_template = 0.25
+
+Maximum absolute value of density = 1.0
+Maximum absolute value of velocity = 0.866417324446
+Maximum absolute value of pressure = 0.0
+Maximum absolute value of pressure_template = 0.25
+
+Maximum absolute value of density = 1.0
+Maximum absolute value of velocity = 0.867893249837
+Maximum absolute value of pressure = 0.0
+Maximum absolute value of pressure_template = 0.25
+
+Maximum absolute value of density = 1.0
+Maximum absolute value of velocity = 0.867893249837
+Maximum absolute value of pressure = 0.0
+Maximum absolute value of pressure_template = 0.25
+
+Maximum absolute value of density = 1.0
+Maximum absolute value of velocity = 0.867893249837
+Maximum absolute value of pressure = 0.0
+Maximum absolute value of pressure_template = 0.25
+
+Maximum absolute value of density = 1.0
+Maximum absolute value of velocity = 0.867893249837
+Maximum absolute value of pressure = 0.0
+Maximum absolute value of pressure_template = 0.25
+
+Maximum absolute value of density = 1.0
+Maximum absolute value of velocity = 0.872100432514
+Maximum absolute value of pressure = 0.0
+Maximum absolute value of pressure_template = 0.25
+
+Maximum absolute value of density = 1.0
+Maximum absolute value of velocity = 0.872100432514
+Maximum absolute value of pressure = 0.0
+Maximum absolute value of pressure_template = 0.25
+
+Maximum absolute value of density = 1.0
+Maximum absolute value of velocity = 0.879499227934
+Maximum absolute value of pressure = 0.0
+Maximum absolute value of pressure_template = 0.25
+
+Maximum absolute value of density = 1.0
+Maximum absolute value of velocity = 0.879499227934
+Maximum absolute value of pressure = 0.0
+Maximum absolute value of pressure_template = 0.25
+
+Maximum absolute value of density = 1.0
+Maximum absolute value of velocity = 0.860882875254
+Maximum absolute value of pressure = 0.0
+Maximum absolute value of pressure_template = 0.25
+
+Maximum absolute value of density = 1.0
+Maximum absolute value of velocity = 0.873626306153
+Maximum absolute value of pressure = 0.0
+Maximum absolute value of pressure_template = 0.25
+
+Maximum absolute value of density = 1.0
+Maximum absolute value of velocity = 0.84820973822
+Maximum absolute value of pressure = 0.0
+Maximum absolute value of pressure_template = 0.25
+
+Maximum absolute value of density = 1.0
+Maximum absolute value of velocity = 0.843599765349
+Maximum absolute value of pressure = 0.0
+Maximum absolute value of pressure_template = 0.25
+
+Maximum absolute value of density = 1.0
+Maximum absolute value of velocity = 0.836708995187
+Maximum absolute value of pressure = 0.0
+Maximum absolute value of pressure_template = 0.25
+
+Maximum absolute value of density = 1.0
+Maximum absolute value of velocity = 0.82816560019
+Maximum absolute value of pressure = 0.0
+Maximum absolute value of pressure_template = 0.25
+
+Maximum absolute value of density = 1.0
+Maximum absolute value of velocity = 0.806944057292
+Maximum absolute value of pressure = 0.0
+Maximum absolute value of pressure_template = 0.25
+
+Maximum absolute value of density = 1.0
+Maximum absolute value of velocity = 0.806944057292
+Maximum absolute value of pressure = 0.0
+Maximum absolute value of pressure_template = 0.25
+
+Maximum absolute value of density = 1.0
+Maximum absolute value of velocity = 0.836554900687
+Maximum absolute value of pressure = 0.0
+Maximum absolute value of pressure_template = 0.25
+
+Maximum absolute value of density = 1.0
+Maximum absolute value of velocity = 0.836554900687
+Maximum absolute value of pressure = 0.0
+Maximum absolute value of pressure_template = 0.25
+
+Maximum absolute value of density = 1.0
+Maximum absolute value of velocity = 0.836554900687
+Maximum absolute value of pressure = 0.0
+Maximum absolute value of pressure_template = 0.25
+
+Maximum absolute value of density = 1.0
+Maximum absolute value of velocity = 0.836554900687
+Maximum absolute value of pressure = 0.0
+Maximum absolute value of pressure_template = 0.25
+
+Maximum absolute value of density = 1.0
+Maximum absolute value of velocity = 0.836554900687
+Maximum absolute value of pressure = 0.0
+Maximum absolute value of pressure_template = 0.25
+
+Maximum absolute value of density = 1.0
+Maximum absolute value of velocity = 0.830577568662
+Maximum absolute value of pressure = 0.0
+Maximum absolute value of pressure_template = 0.25
+
+Maximum absolute value of density = 1.0
+Maximum absolute value of velocity = 0.830577568662
+Maximum absolute value of pressure = 0.0
+Maximum absolute value of pressure_template = 0.25
+
+Maximum absolute value of density = 1.0
+Maximum absolute value of velocity = 0.830577568662
+Maximum absolute value of pressure = 0.0
+Maximum absolute value of pressure_template = 0.25
+
+Maximum absolute value of density = 1.0
+Maximum absolute value of velocity = 0.827991436776
+Maximum absolute value of pressure = 0.0
+Maximum absolute value of pressure_template = 0.25
+
+Maximum absolute value of density = 1.0
+Maximum absolute value of velocity = 0.827991436776
+Maximum absolute value of pressure = 0.0
+Maximum absolute value of pressure_template = 0.25
+
+Maximum absolute value of density = 1.0
+Maximum absolute value of velocity = 0.827991436776
+Maximum absolute value of pressure = 0.0
+Maximum absolute value of pressure_template = 0.25
+
+Maximum absolute value of density = 1.0
+Maximum absolute value of velocity = 0.827991436776
+Maximum absolute value of pressure = 0.0
+Maximum absolute value of pressure_template = 0.25
+
+Maximum absolute value of density = 1.0
+Maximum absolute value of velocity = 0.827991436776
+Maximum absolute value of pressure = 0.0
+Maximum absolute value of pressure_template = 0.25
+
+Maximum absolute value of density = 1.0
+Maximum absolute value of velocity = 0.827991436776
+Maximum absolute value of pressure = 0.0
+Maximum absolute value of pressure_template = 0.25
+
+Maximum absolute value of density = 1.0
+Maximum absolute value of velocity = 0.827991436776
+Maximum absolute value of pressure = 0.0
+Maximum absolute value of pressure_template = 0.25
+
+Maximum absolute value of density = 1.0
+Maximum absolute value of velocity = 0.827991436776
+Maximum absolute value of pressure = 0.0
+Maximum absolute value of pressure_template = 0.25
+
+Maximum absolute value of density = 1.0
+Maximum absolute value of velocity = 0.827991436776
+Maximum absolute value of pressure = 0.0
+Maximum absolute value of pressure_template = 0.25
+
+Maximum absolute value of density = 1.0
+Maximum absolute value of velocity = 0.827991436776
+Maximum absolute value of pressure = 0.0
+Maximum absolute value of pressure_template = 0.25
+
+Maximum absolute value of density = 1.0
+Maximum absolute value of velocity = 0.800387975906
+Maximum absolute value of pressure = 0.0
+Maximum absolute value of pressure_template = 0.25
+
+Maximum absolute value of density = 1.0
+Maximum absolute value of velocity = 0.800387975906
+Maximum absolute value of pressure = 0.0
+Maximum absolute value of pressure_template = 0.25
+
+Maximum absolute value of density = 1.0
+Maximum absolute value of velocity = 0.800387975906
+Maximum absolute value of pressure = 0.0
+Maximum absolute value of pressure_template = 0.25
+
+Maximum absolute value of density = 1.0
+Maximum absolute value of velocity = 0.778276181806
+Maximum absolute value of pressure = 0.0
+Maximum absolute value of pressure_template = 0.25
+
+Maximum absolute value of density = 1.0
+Maximum absolute value of velocity = 0.777633650334
+Maximum absolute value of pressure = 0.0
+Maximum absolute value of pressure_template = 0.25
+
+Maximum absolute value of density = 1.0
+Maximum absolute value of velocity = 0.777483991085
+Maximum absolute value of pressure = 0.0
+Maximum absolute value of pressure_template = 0.25
+
+Maximum absolute value of density = 1.0
+Maximum absolute value of velocity = 0.747096977751
+Maximum absolute value of pressure = 0.0
+Maximum absolute value of pressure_template = 0.25
+
+Maximum absolute value of density = 1.0
+Maximum absolute value of velocity = 0.747096977751
+Maximum absolute value of pressure = 0.0
+Maximum absolute value of pressure_template = 0.25
+
