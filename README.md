@@ -1,7 +1,5 @@
-# Mantaflow #
+# Master's Thesis Titled "Pressure Templates for 3D Smoke Simulation" in the Mantaflow Framework : [http://mantaflow.com](http://mantaflow.com)"#
 
-Mantaflow is an open-source framework targeted at fluid simulation research in Computer Graphics.
-Its parallelized C++ solver core, python scene definition interface and plugin system allow for quickly prototyping and testing new algorithms. 
+This was my first independent project in an already existing large framework in C++ to solve "Fluid Simulation for Computer Graphics" Problems with finite difference discretization. 
 
-For more information on how to install, run and code with Mantaflow, please head over to our home page at
-[http://mantaflow.com](http://mantaflow.com)
+The files written and modified by me are
